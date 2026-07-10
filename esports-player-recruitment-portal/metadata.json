@@ -1,0 +1,6 @@
+{
+  "name": "Esports Player Recruitment Portal",
+  "description": "A web application for Esports player registration and hand-tracking arcade talent assessment using MediaPipe Hands.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
